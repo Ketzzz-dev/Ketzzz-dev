@@ -1,8 +1,16 @@
-<h2><b>Hello, I'm Keys!</b></h2>
+# Ketz-dev (Keys)
 
-I program as a hobby, currently working on a Minecraft mod.
+I program as a hobby, currently working on a Discord bot and a Minecraft mod.
 
-<h2><b>Projects</b></h2>
+---
 
-[![Fall.js](https://img.shields.io/badge/-Fall.js-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/Ketz-dev/Fall.js)
-[![Sleepers](https://img.shields.io/badge/-Sleepers-green?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/Ketz-dev/sleepers)
+## Projects
+
+[![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://github.com/Ketz-dev/Fall.js)
+[![](https://img.shields.io/badge/java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ketz-dev/sleepers)
+
+## Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=Ketz-dev&show_icons=true&bg_color=30363d&title_color=FFFFFF&text_color=FFFFFF&icon_color=4F94EF&hide_border=true&hide=stars)](https://github.com/Ketz-dev)
+
+---
