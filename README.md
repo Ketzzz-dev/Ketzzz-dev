@@ -1,6 +1,6 @@
 # Ketz-dev (___Keys)
 
-I program as a hobby, currently working on a Discord bot and a Minecraft mod.
+I program as a hobby, currently working on a Discord Bot and a Physics Engine.
 
 ---
 
