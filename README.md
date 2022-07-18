@@ -6,8 +6,9 @@ I program as a hobby, currently working on a Discord Bot and a Physics Engine.
 
 ## Projects
 
-[![](https://img.shields.io/badge/fall.js-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Ketz-dev/Fall.js)
+[![](https://img.shields.io/badge/Fall.js-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Ketz-dev/Fall.js)
 [![](https://img.shields.io/badge/Sleepers-%23000.svg?style=for-the-badge&logo=curseforge&logoColor=white)](https://github.com/Ketz-dev/Sleepers)
+[![](https://img.shields.io/badge/Common_Sense-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Ketz-dev/common-sense)
 
 ## Contact
 [![](https://img.shields.io/badge/______Keys%230007-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/967968296555122688)
