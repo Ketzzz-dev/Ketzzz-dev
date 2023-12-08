@@ -1,4 +1,4 @@
-# Keys-dev (Keys)
+# Ketzzz-dev (Keys)
 
 I program as a hobby, currently working on a Discord Bot and a Physics Engine.
 
