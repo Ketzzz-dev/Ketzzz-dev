@@ -15,6 +15,6 @@ I program as a hobby, currently working on a Discord Bot and a Physics Engine.
 
 ## Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Keys-dev&show_icons=true&bg_color=30363d&title_color=FFFFFF&text_color=FFFFFF&icon_color=4F94EF&hide_border=true&hide=stars)](https://github.com/Keys-dev)
+[![](https://github-readme-stats.vercel.app/api?username=Ketzzz-dev&show_icons=true&bg_color=30363d&title_color=FFFFFF&text_color=FFFFFF&icon_color=4F94EF&hide_border=true&hide=stars)](https://github.com/Keys-dev)
 
 ---
