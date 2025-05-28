@@ -1,6 +1,6 @@
 # Ketzzz-dev (Keys)
 
-Hi, I’m Keys. but my real name is Lucas. I'm a college student who's diving into game development and systems programming.  
+Hi, I'm a college student who's diving into game development and systems programming.  
 
 I love building things from scratch and experimenting with gameplay mechanics.
 
