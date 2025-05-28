@@ -12,6 +12,7 @@ Currently exploring game design, Rust, and low-level graphics.
 [![](https://img.shields.io/badge/Fall.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Ketzzz-dev/Fall.js)
 [![](https://img.shields.io/badge/Common_Sense-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Ketzzz-dev/common-sense)
 
+[![](https://img.shields.io/badge/Stopwatch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://ketzzz750.itch.io/stopwatch)
 [![](https://img.shields.io/badge/GlitchGunner-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://yuno517.itch.io/glitchgunner-unlisted)
 
 ## Tech Stacks
