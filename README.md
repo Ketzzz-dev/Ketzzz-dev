@@ -1,6 +1,6 @@
 # Ketzzz-dev (Keys)
 
-I like to fuck around.
+I like to mess around.
 
 ---
 
