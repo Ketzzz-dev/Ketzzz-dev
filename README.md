@@ -1,6 +1,6 @@
 # Ketzzz-dev (Keys)
 
-Hi, I'm a college student who's diving into game development and systems programming.  
+Hi, I'm a CS student who's diving into game development and systems programming.  
 
 I love building things from scratch and experimenting with gameplay mechanics.
 
