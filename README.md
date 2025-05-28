@@ -1,18 +1,10 @@
 # Ketzzz-dev (Keys)
 
-I like to mess around.
-
----
-
-## About Me
-
-Hi, I’m Keys — a college student diving into game development and systems programming.  
+Hi, I’m Keys. but my real name is Lucas. I'm a college student who's diving into game development and systems programming.  
 
 I love building things from scratch and experimenting with gameplay mechanics.
 
 Currently exploring game design, Rust, and low-level graphics.
-
----
 
 ## Projects
 
@@ -21,8 +13,6 @@ Currently exploring game design, Rust, and low-level graphics.
 [![](https://img.shields.io/badge/Common_Sense-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Ketzzz-dev/common-sense)
 
 [![](https://img.shields.io/badge/GlitchGunner-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://yuno517.itch.io/glitchgunner-unlisted)
-
----
 
 ## Tech Stacks
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
@@ -35,8 +25,6 @@ Currently exploring game design, Rust, and low-level graphics.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
 
 ## GitHub Stats
 ![Ketzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketzzz-dev&show_icons=true&theme=catppuccin_mocha)
