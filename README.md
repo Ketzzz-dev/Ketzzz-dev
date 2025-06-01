@@ -1,10 +1,10 @@
 # 👨‍💻 About Me
 
-Hi, I'm a CS student who's diving into game development and systems programming.  
+Hey! I'm a CS student getting into game dev and systems programming.
+I like building stuff from the ground up and messing around with gameplay ideas.
 
-I love building things from scratch and experimenting with gameplay mechanics.
-
-Currently, exploring game design, Rust, and low-level graphics.
+Right now, I’m exploring game design and low-level graphics.
+I also dabble in music composition and a bit of 3D modeling on the side.
 
 # 📁 Projects
 
