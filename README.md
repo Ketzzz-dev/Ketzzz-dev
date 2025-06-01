@@ -4,7 +4,7 @@ Hi, I'm a CS student who's diving into game development and systems programming.
 
 I love building things from scratch and experimenting with gameplay mechanics.
 
-Currently exploring game design, Rust, and low-level graphics.
+Currently, exploring game design, Rust, and low-level graphics.
 
 ## Projects
 
