@@ -6,7 +6,7 @@ I love building things from scratch and experimenting with gameplay mechanics.
 
 Currently, exploring game design, Rust, and low-level graphics.
 
-## Projects
+# Projects
 
 [![](https://img.shields.io/badge/Fizix-000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Ketzzz-dev/fizix)
 [![](https://img.shields.io/badge/Fall.js-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Ketzzz-dev/Fall.js)
@@ -15,7 +15,7 @@ Currently, exploring game design, Rust, and low-level graphics.
 [![](https://img.shields.io/badge/Stopwatch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://ketzzz750.itch.io/stopwatch)
 [![](https://img.shields.io/badge/GlitchGunner-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://yuno517.itch.io/glitchgunner-unlisted)
 
-## Tech Stacks
+# Tech Stacks
 ![RustRover](https://img.shields.io/badge/RustRover-000?style=for-the-badge&logo=rustrover&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
 ![Bevy](https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy)
@@ -34,5 +34,5 @@ Currently, exploring game design, Rust, and low-level graphics.
 ![Solid](https://img.shields.io/badge/Solid-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## GitHub Stats
+# GitHub Stats
 ![Ketzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketzzz-dev&show_icons=true&theme=catppuccin_mocha)
